@@ -1,4 +1,4 @@
-const divide = function (num1, num2) {
+const divide = (num1, num2) => {
     return (2000 / 100);
 }
 
